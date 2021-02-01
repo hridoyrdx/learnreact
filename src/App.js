@@ -15,6 +15,9 @@ const App = () => {
     }else{
       setName('Hridoy');
     }
+    if(name == 'Hridoy'){
+      setName('Hridoy Ahmed');
+    }
   }
 
   return ( 
